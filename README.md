@@ -14,7 +14,7 @@
 
 ## example GIF
 
-<img src="./example.gif" height="700" weight="1000"/>
+<img src="./example.gif" height="700" weight="1500"/>
 
 ## To Start
 
