@@ -14,4 +14,5 @@
 
 ## example video
 
-./example2.mp4
+<video height="300" src="./example2.mp4"></video>
+
