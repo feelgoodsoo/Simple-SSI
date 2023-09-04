@@ -12,6 +12,16 @@
 - Issuer : An institution that issues VCs at Holder's request by referring to DID doc registered in the distributed ledger (or blockchain)
 - Verifier : Qualifier to validate VC, VP
 
-## example video
+## example GIF
 
-./example2.mp4
+<img src="./example.gif" height="250"/>
+
+## To Start
+
+- run ./actors/vdr/resolver/server/resolver.go
+- run ./actors/vdr/registrar/server/registrar.go
+- run ./actors/startDaemon/verifierDaemon/verifierd.go
+- run ./actors/startDaemon/issuerDaemon/issuerd.go
+- run ./actors/startDaemon/holderDaemon/holderd.go
+
+## To get more information, check example2.mp4 out
